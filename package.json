@@ -1,6 +1,6 @@
 {
   "name": "react-native-imagepicker-android",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "description": "React Native Image Picker For Android",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,7 @@
     "react-native"
   ],
   "author": "Saeed Ghanbari",
-  "license": "GPL v2",
-  "license": "",
+  "license": "GPLv2",
   "peerDependencies": {
     "react-native": "^0.41.2"
   }
