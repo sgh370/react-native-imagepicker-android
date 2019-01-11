@@ -2,7 +2,7 @@
 {
   "name": "react-native-imagepicker-android",
   "version": "1.0.0",
-  "description": "",
+  "description": "React Native Image Picker For Android",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
   "keywords": [
     "react-native"
   ],
-  "author": "",
+  "author": "Saeed Ghanbari",
   "license": "",
   "peerDependencies": {
     "react-native": "^0.41.2"
