@@ -45,7 +45,7 @@ export default class App extends PureComponent {
     pickImage = async () => {
         const imageSource = await RNImagepickerAndroid.pickImage();
         this.setState({
-            imageUri: msg
+            imageUri: imageSource
         })
     }
 
