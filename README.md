@@ -30,11 +30,10 @@
 
 ## Usage
 ```javascript
-import RNImagepickerAndroid from 'react-native-imagepicker-android';
-
-// TODO: What to do with the module?
 import React, {PureComponent} from 'react';
 import {StyleSheet, Button, View, Image} from 'react-native';
+
+import RNImagepickerAndroid from 'react-native-imagepicker-android';
 
 export default class App extends PureComponent {
     
